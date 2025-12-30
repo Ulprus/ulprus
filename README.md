@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Designer+%2B+Developer;Crafting+pixels+%26+code;Building+beautiful+experiences)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Designer+%2B+Developer;15%2B+Years+of+Crafting+Digital+Magic;Core+Framework+%26+Motion.page+Creator;Tokyo-based+Pixel+Perfectionist)
 
 </div>
 
@@ -10,16 +10,36 @@
 
 ## 🎨 About Me
 
-I'm a **Designer + Developer** who lives at the intersection of aesthetics and functionality. I believe great products are born when beautiful design meets clean code.
+I'm a **Designer + Developer** with **15+ years** of experience living at the intersection of aesthetics and functionality. Based in **Tokyo, Japan** 🗼, I believe great products are born when beautiful design meets clean code.
+
+Creator at **[CoreBunch](https://corebunch.com)** — the team behind **Core Framework** and **Motion.page**.
 
 ```javascript
 const ulprus = {
-    residingIn: "Tokyo, Japan",
-    currentlyBuilding: "something awesome 🚀",
-    askMeAbout: ["UI/UX", "Web Dev", "Mobile Apps", "Design Systems"],
-    funFact: "I debug with console.log and I'm not ashamed 😄"
+    location: "Tokyo, Japan 🇯🇵",
+    experience: "15+ years",
+    company: "CoreBunch",
+    building: ["Core Framework", "Motion.page"],
+    passion: ["UI/UX", "Web Dev", "Mobile Apps", "Design Systems"],
+    currentStatus: "Happily employed & always tinkering on side projects",
+    music: "Top 0.01% Spotify listener 🎵 (2024 & 2025)",
+    debugStyle: "console.log('still works ¯\\_(ツ)_/¯')"
 };
 ```
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🚀 Experience | 🛠️ Created | 🎵 Music |
+|:---:|:---:|:---:|
+| **15+ Years** | **Core Framework** | **Top 0.01%** |
+| Designer + Developer | **Motion.page** | Spotify Worldwide |
+| Tokyo, Japan | @ CoreBunch | 2024 & 2025 |
+
+</div>
 
 ---
 
@@ -46,30 +66,27 @@ const ulprus = {
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 When I'm Not Coding
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ulprus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulprus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
+![Gaming](https://img.shields.io/badge/Gaming-FPS_&_RPGs-E60012?style=for-the-badge&logo=playstation&logoColor=white)
+![Music](https://img.shields.io/badge/Spotify-Top_0.01%25-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Fitness](https://img.shields.io/badge/Fitness-Staying_Active-FF6B6B?style=for-the-badge&logo=strava&logoColor=white)
 
 </div>
 
-<div align="center">
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulprus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
+*Probably grinding ranked, discovering new music, or hitting the gym. Sometimes all three in the same day.*
 
 ---
 
 ## 🌟 What I'm Up To
 
-- 🔭 Currently working on: *something cool (watch this space!)*
-- 🌱 Learning: *always leveling up*
-- 💬 Ask me about: **design systems, React, mobile development**
-- ⚡ Fun fact: *I probably spent more time on this README than I should have*
-
+- 🏢 Working at **CoreBunch** on Core Framework & Motion.page
+- 🔧 Tinkering on freelance & personal projects
+- 🎮 Gaming: FPS & RPG enthusiast
+- 🎵 Listening to an absurd amount of music (top 0.01%, remember?)
+- 💪 Staying active and healthy
 
 ---
 
@@ -80,5 +97,7 @@ const ulprus = {
   ![Profile Views](https://komarev.com/ghpvc/?username=ulprus&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
   *✨ Thanks for stopping by! ✨*
+
+  **Let's build something amazing together.**
 
 </div>
