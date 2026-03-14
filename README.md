@@ -32,7 +32,7 @@ const ulprus = {
 <div align="center">
 
 | 🚀 Experience | 🎵 Music |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | **15+ Years** | **Top 0.01%** |
 | Designer + Developer | Spotify Worldwide |
 | Tokyo, Japan | 2024 & 2025 |
