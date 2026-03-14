@@ -12,16 +12,14 @@
 
 I'm a **Designer + Developer** with **15+ years** of experience living at the intersection of aesthetics and functionality. Based in **Tokyo, Japan** 🗼, I believe great products are born when beautiful design meets clean code.
 
-Creator at **[CoreBunch](https://corebunch.com)** — the team behind **Core Framework** and **Motion.page**.
-
 ```javascript
 const ulprus = {
     location: "Tokyo, Japan 🇯🇵",
     experience: "15+ years",
-    company: "CoreBunch",
-    building: ["Core Framework", "Motion.page"],
+    company: "Ulprus Technologies",
+    building: ["Super Websites"],
     passion: ["UI/UX", "Web Dev", "Mobile Apps", "Design Systems"],
-    currentStatus: "Happily employed & always tinkering on side projects",
+    currentStatus: "Tinkering on side projects",
     music: "Top 0.01% Spotify listener 🎵 (2024 & 2025)",
     debugStyle: "console.log('still works ¯\\_(ツ)_/¯')"
 };
@@ -33,11 +31,11 @@ const ulprus = {
 
 <div align="center">
 
-| 🚀 Experience | 🛠️ Created | 🎵 Music |
+| 🚀 Experience | 🎵 Music |
 |:---:|:---:|:---:|
-| **15+ Years** | **Core Framework** | **Top 0.01%** |
-| Designer + Developer | **Motion.page** | Spotify Worldwide |
-| Tokyo, Japan | @ CoreBunch | 2024 & 2025 |
+| **15+ Years** | **Top 0.01%** |
+| Designer + Developer | Spotify Worldwide |
+| Tokyo, Japan | 2024 & 2025 |
 
 </div>
 
@@ -82,7 +80,6 @@ const ulprus = {
 
 ## 🌟 What I'm Up To
 
-- 🏢 Working at **CoreBunch** on Core Framework & Motion.page
 - 🔧 Tinkering on freelance & personal projects
 - 🎮 Gaming: FPS & RPG enthusiast
 - 🎵 Listening to an absurd amount of music (top 0.01%, remember?)
