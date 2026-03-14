@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Designer+%2B+Developer;15%2B+Years+of+Crafting+Digital+Magic;Core+Framework+%26+Motion.page+Creator;Tokyo-based+Pixel+Perfectionist)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Designer+%2B+Developer;15%2B+Years+of+Crafting+Digital+Magic;Tokyo-based+Pixel+Perfectionist)
 
 </div>
 
